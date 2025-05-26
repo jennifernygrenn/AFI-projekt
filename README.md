@@ -1,0 +1,2 @@
+# AFI-projekt
+Smarta hemmet
